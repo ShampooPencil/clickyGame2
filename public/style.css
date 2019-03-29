@@ -1,0 +1,11 @@
+img{
+    width:200px;
+    height:200px;
+}
+div{
+    margin: 20px;
+    padding: 20px;
+}
+#Dennis, #Charlie, #Mac, #Dee, #Charlies-Uncle, #Frank, #McPoyles, #Cricket{
+    float: left;
+}
